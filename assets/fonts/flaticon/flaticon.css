@@ -1,0 +1,104 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("flaticon8441.ttf?e2ee03f5e531a4aef80064dd7529a383") format("truetype"),
+url("flaticon8441.woff?e2ee03f5e531a4aef80064dd7529a383") format("woff"),
+url("flaticon8441.woff2?e2ee03f5e531a4aef80064dd7529a383") format("woff2"),
+url("flaticon8441.eot?e2ee03f5e531a4aef80064dd7529a383#iefix") format("embedded-opentype"),
+url("flaticon8441.svg?e2ee03f5e531a4aef80064dd7529a383#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-plate:before {
+    content: "\f101";
+}
+.flaticon-facebook-app-symbol:before {
+    content: "\f102";
+}
+.flaticon-instagram:before {
+    content: "\f103";
+}
+.flaticon-pinterest:before {
+    content: "\f104";
+}
+.flaticon-cheese-burger:before {
+    content: "\f105";
+}
+.flaticon-pizza-1:before {
+    content: "\f106";
+}
+.flaticon-chef-hat:before {
+    content: "\f107";
+}
+.flaticon-right-arrow:before {
+    content: "\f108";
+}
+.flaticon-pizza-slice:before {
+    content: "\f109";
+}
+.flaticon-right-quote:before {
+    content: "\f10a";
+}
+.flaticon-instagram-1:before {
+    content: "\f10b";
+}
+.flaticon-shrimp-1:before {
+    content: "\f10c";
+}
+.flaticon-coffee-beans:before {
+    content: "\f10d";
+}
+.flaticon-crab-1:before {
+    content: "\f10e";
+}
+.flaticon-retention:before {
+    content: "\f10f";
+}
+.flaticon-chef:before {
+    content: "\f110";
+}
+.flaticon-romantic-dinner:before {
+    content: "\f111";
+}
+.flaticon-costumer:before {
+    content: "\f112";
+}
+.flaticon-crab-2:before {
+    content: "\f113";
+}
+.flaticon-drink:before {
+    content: "\f114";
+}
+.flaticon-pizza-slice-1:before {
+    content: "\f115";
+}
+.flaticon-chef-1:before {
+    content: "\f116";
+}
+.flaticon-delivery-man:before {
+    content: "\f117";
+}
+.flaticon-food-serving:before {
+    content: "\f118";
+}
+.flaticon-discuss:before {
+    content: "\f119";
+}
+.flaticon-certificate:before {
+    content: "\f11a";
+}
+.flaticon-smartphone:before {
+    content: "\f11b";
+}
+.flaticon-check:before {
+    content: "\f11c";
+}
